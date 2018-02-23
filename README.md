@@ -1,4 +1,6 @@
 # YTRadio
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fswimmadude66%2FYTRadio.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fswimmadude66%2FYTRadio?ref=badge_shield)
+
 __codenamed LifeBoat__
 
 Each instance of Lifeboat represents a venue in which you and your friends can DJ to an audience all over the world. What makes Lifeboat different from other DJ'ing platforms of the past is that it is light enough to be hosted as an afterthought on almost any server.
@@ -45,3 +47,7 @@ After cloning and installing, you can run `npm run dev` to create a live-reloadi
 
 Additionally, you can configure the app by workspace by creating and editing a `.env` fle in the project root.  The contents of the file will be read as KeyValuePairs and overwrite `process.env` variables.
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fswimmadude66%2FYTRadio.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fswimmadude66%2FYTRadio?ref=badge_large)
